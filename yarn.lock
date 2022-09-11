@@ -3953,10 +3953,10 @@ escape-string-regexp@^4.0.0:
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-4.0.0.tgz#14ba83a5d373e3d311e5afca29cf5bfad965bf34"
   integrity sha512-TtpcNJ3XAzx3Gq8sWRzJaVajRs0uVxA2YAkdb1jm2YkPz4G6egUFAyA3n5vtEIZefPk5Wa4UXbKuS5fKkJWdgA==
 
-eslint-config-louffee@^2.2.5:
-  version "2.2.5"
-  resolved "https://registry.yarnpkg.com/eslint-config-louffee/-/eslint-config-louffee-2.2.5.tgz#963796103264fffca721fcbbab3fb2455056042e"
-  integrity sha512-NmMSQ7BQT+O/R5iTN7ZLkmV1qMGSOItgpA0BIDJT92/jHRCvcL85U7zvxoWNxQodWAAWlDSbP/UhXPMD6ePICQ==
+eslint-config-louffee@2.3.6:
+  version "2.3.6"
+  resolved "https://registry.yarnpkg.com/eslint-config-louffee/-/eslint-config-louffee-2.3.6.tgz#8a04e25294f87d222f2d3714d2b9ca706660b8a4"
+  integrity sha512-PtfMjsKynPTfw6XvC9aTzSKekQ5y/sq03BqRax732Ny5K6dF1Kyk4r0+1SQXvBh6mgG3hTq1eg3d+yBTzlrshg==
 
 eslint-import-resolver-node@^0.3.6:
   version "0.3.6"
